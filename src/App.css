@@ -301,7 +301,7 @@ iframe {
     height: 310px;
   }
   .project-content {
-      margin-left: 6em;
+    margin-left: 10em;
   }
 }
 
@@ -329,7 +329,7 @@ iframe {
     height: 310px;
   }
   .project-content {
-      margin-left: 6em;
+      margin-left: 9em;
   }
 }
 
@@ -360,7 +360,7 @@ iframe {
     height: 310px;
   }
   .project-content {
-      margin-left: 6em;
+      margin-left: 8em;
   }
 }
 
@@ -391,7 +391,7 @@ iframe {
     height: 310px;
   }
   .project-content {
-      margin-left: 6em;
+      margin-left: 7em;
   }
 }
 
@@ -414,11 +414,11 @@ iframe {
     border-radius: 8px; 
   }
   iframe {
-    width: 350px;
+    width: 465px;
     height: 310px;
   }
   .gif-preview {
-    width: 350px;
+    width: 465px;
     height: 310px;
   }
   .project-content {

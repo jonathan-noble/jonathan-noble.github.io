@@ -25,7 +25,7 @@ function Contact() {
       <br/><br/>
       <hr/>
 
-      <p>Copyright © Jonathan Noble 2019</p>
+      <p>Copyright © Jonathan Noble 2022</p>
 
     </footer>
   );

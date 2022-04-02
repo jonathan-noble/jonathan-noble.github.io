@@ -17,7 +17,7 @@ function Landing() {
                     <h1>SOFTWARE DEVELOPER</h1>
 
                     <hr/>
-                    <p>Python | JavaScript ES6 | Java | React | NodeJS | HTML5/CSS3 | SQL | C#</p>
+                    <p>JavaScript | Java | Python | NodeJS | ReactJS | Angular | Spring Boot | C#</p>
                     
                     <div className="social-links">
 
